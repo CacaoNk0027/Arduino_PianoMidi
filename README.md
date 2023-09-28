@@ -12,7 +12,7 @@ Este es un proyecto de arduino para la creacion de un teclado / controlador midi
 ### Esquema del circuito
 
 <img src=",/../Images/Conexiones.png" alt="Imagen esquema de las conexiones al arduino" style="border-radius: 20px;"/>
-<p></p>
+<p><b>Nota:</b> en el esquema se marca que los IC son <b>74HC595</b> los cuales <b>deben ser cambiados por los 74HC165.</b></p>
 
 # Algunas fuentes
 
@@ -21,3 +21,10 @@ Para el desarrollo de este proyecto me base en los siguentes videos de youtube a
 - ["Construye tu propio controlador MIDI"](https://www.youtube.com/watch?v=dkFy9S-GjIo)  - Sistema de Bibliotecas - Alcaldía de Medellín
 - ["¿Cómo crear nuestro propio dispositivo de comunicación MIDI?... Con arduino."](https://www.youtube.com/watch?v=pIFoOQJEFZ0&t=1s)  - DH Cast
 - ["Multiplexor de entradas arduino digital"](https://www.youtube.com/watch?v=OXIIHRF_14o&t=33s)  - DH Cast
+
+# links recomendados
+
+- [Link Aqui](https://www.arduino.cc) - Pagina oficial de arduino
+- [Link Aqui](https://www.alldatasheet.es/datasheet-pdf/pdf/15549/PHILIPS/74HC165.html) - Pines del 74HC165 - AllDatasheet
+- [Link Aqui](https://es.wikipedia.org/wiki/MIDI) - Que es midi? - Wikipedia
+- [Link Aqui](https://sonic-pi.mehackit.org/assets/img/es/midi_notes_es.png) - Imagen de las notas en MIDI
