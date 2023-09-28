@@ -22,7 +22,7 @@ Para el desarrollo de este proyecto me base en los siguentes videos de youtube a
 - ["¿Cómo crear nuestro propio dispositivo de comunicación MIDI?... Con arduino."](https://www.youtube.com/watch?v=pIFoOQJEFZ0&t=1s)  - DH Cast
 - ["Multiplexor de entradas arduino digital"](https://www.youtube.com/watch?v=OXIIHRF_14o&t=33s)  - DH Cast
 
-# links recomendados
+# Links recomendados
 
 - [Link Aqui](https://www.arduino.cc) - Pagina oficial de arduino
 - [Link Aqui](https://www.alldatasheet.es/datasheet-pdf/pdf/15549/PHILIPS/74HC165.html) - Pines del 74HC165 - AllDatasheet
