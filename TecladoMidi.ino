@@ -30,7 +30,7 @@ int cargarDatos = 6; // carga conectado al pin PL del IC (pin 1)
 int datosPin = 4; // salida conectado al pin Q7 del IC (pin 9)
 
 // este array de abajo se usa para especificar las notas que se tocaran al momento de pulsar los botones
-byte notas[] = { 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60 };
+byte notas[] = { 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51 };
 
 void setup() {
   // inicializamos puerto serial

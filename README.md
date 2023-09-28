@@ -1,6 +1,7 @@
 # Arduino Piano MIDI con 74HC165
 
-Este es un proyecto de arduino para la creacion de un teclado / controlador midi con arduino.
+Este es un proyecto de arduino para la creacion de un teclado / controlador midi con arduino. 
+Para usar el teclado se tienen que ejecutar dos aplicaciones, una es [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html) donde se creara un puerto midi el cual podras conectar a cualquier programa, y la otra es [Hairless MIDI](https://projectgus.github.io/hairless-midiserial/) el cual establecera una comunicacion entre el serial del arduino con nuestro puerto midi creado.
 
 ### Materiales a usar
 - 1 Arduino (cualquier placa puede usarse siempre y cuando se adapte)
